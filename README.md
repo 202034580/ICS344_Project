@@ -3,6 +3,8 @@ ICS344: Information Security Project
 
 Group number: 4
 
+Section number: 6
+
 Name: Murtadha Abdulaziz ALGhadban
 
 ID:202034580
